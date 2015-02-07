@@ -1,15 +1,17 @@
 ﻿using UnityEngine;
-using System.Collections;
 
-public class Flipper : MonoBehaviour {
+namespace Assets.Scrips
+{
+    public class Flipper : MonoBehaviour
+    {
+        void Start()
+        {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+        }
+
+        void Update()
+        {
+
+        }
+    }
 }
